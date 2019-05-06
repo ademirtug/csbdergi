@@ -16,6 +16,3 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-
-* linguist-vendored
-*.m linguist-vendored=false
